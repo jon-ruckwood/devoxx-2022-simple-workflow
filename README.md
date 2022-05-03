@@ -4,7 +4,7 @@ Demonstrating a simple workflow.
 
 ## Workflows
 
-• Build – runs automatically when commits are pushed to the `main` branch (can also be invoked manually)
+* Build – runs automatically when commits are pushed to the `main` branch (can also be invoked manually)
 
 ## Usage
 
