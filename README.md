@@ -1,5 +1,13 @@
 # devoxx-2022-simple-workflow
 
+Demonstrating a simple workflow.
+
+## Workflows
+
+• Build – runs automatically when commits are pushed to the `main` branch (can also be invoked manually)
+
+## Usage
+
 Build
 
 ```shell
