@@ -8,6 +8,6 @@ class HelloWorldTest {
 
     @Test
     void shouldAlwaysBeTrue() {
-        assertThat(true).isTrue();
+        assertThat(false).isTrue();
     }
 }
